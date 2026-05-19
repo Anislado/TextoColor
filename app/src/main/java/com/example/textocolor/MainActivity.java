@@ -1,3 +1,4 @@
+//Mauricio Martín González Anislado
 package com.example.textocolor;
 
 import android.os.Bundle;
